@@ -1,2 +1,2 @@
 # Statistical-Inference
-Repository for Coursera Project Statistical Inference
+Repository for Coursera Statistical Inference Coursework
